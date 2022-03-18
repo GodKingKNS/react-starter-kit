@@ -63,4 +63,4 @@ in the right direction.
 ### License
 
 By contributing to React Starter Kit, you agree that your contributions will be licensed under its
-[MIT license](https://github.com/kriasoft/react-starter-kit/blob/master/LICENSE.txt).
+[MIT license](https://github.com/kgsoft/react-starter-kit/blob/master/LICENSE.txt).

@@ -64,6 +64,6 @@ All notable changes to this project will be documented in this file.
 - Update NPM production and dev dependencies to use the latest versions
 
 [unreleased]: https://github.com/kriasoft/react-starter-kit/compare/v0.5.1...HEAD
-[v0.5.1]: https://github.com/kriasoft/react-starter-kit/compare/v0.5.0...v0.5.1
-[v0.5.0]: https://github.com/kriasoft/react-starter-kit/compare/v0.4.1...v0.5.0
-[v0.4.1]: https://github.com/kriasoft/react-starter-kit/compare/v0.4.0...v0.4.1
+[v0.5.1]: https://github.com/kgsoft/react-starter-kit/compare/v0.5.0...v0.5.1
+[v0.5.0]: https://github.com/kgsoft/react-starter-kit/compare/v0.4.1...v0.5.0
+[v0.4.1]: https://github.com/kgsoft/react-starter-kit/compare/v0.4.0...v0.4.1
